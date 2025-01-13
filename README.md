@@ -21,4 +21,4 @@ yarn install
 yarn start
 
 
-Navigate to the Frontend: Open a browser and go to http://localhost:3000 to interact with the application.
+Navigate to the Frontend: Open a browser and go to http://localhost:5173 to interact with the application.
